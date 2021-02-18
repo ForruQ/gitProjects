@@ -1,0 +1,109 @@
+.top-left img{
+  height: 60px;
+  width: 65%;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+li {
+  float: left;
+  padding: 14px 12px 14px 12px; 
+}
+
+li a {
+  display: inline;
+  color: gray;
+  text-align: center;
+  padding: 7px 7px;
+  text-decoration: none;
+}
+
+.top-button button{
+  border-radius: 30px;
+  border: 1px solid #574e92;
+  text-align: center;
+  margin: auto;
+  padding: 5px 30px 5px 30px;
+   color: gray;
+}
+.top{
+background-color: #f8f8f8;
+}
+.top-right{
+background-color: #ebebeb;
+}
+.download button{
+color: #fff;
+font-size: 17px;
+font-weight: 300;
+display: inline-block;
+background-color: #665cac;
+line-height: 48px;
+text-align: center;
+border-radius: 30px;
+font-family: Roboto,sans-serif;
+padding: 0 28px;
+min-width: 228px;
+height: 48px
+}
+.down{
+color: gray;
+font-size: 13px;
+display: block;
+text-align: center;
+}
+.desktop{
+	width: 100%;
+}
+.desktop img{
+	width: 100%;
+
+}
+.left-d a{
+	color: #8074d6;
+	list-style-type: none;
+	text-decoration: none; 
+
+}
+.right-d a{
+	color: #8074d6;
+	list-style-type: none;
+	text-decoration: none; 
+
+}
+.loop img{
+  height: 90px;
+  width: 100%;
+  padding-left: 100px;
+  padding-top: 5px;
+}
+.list3 a{
+color: gray;
+font-size: 14px;
+}
+.bangla{
+  background-color: #574e92;
+}
+.list-group a{
+	color: white;
+}
+.w-100 button{
+	padding: 10px 40px 10px 40px;
+	border-radius: 30px;
+	background-color: #66b821;
+
+}
+.dropdown{
+	border: 1px solid white ;
+	margin: 5px 20px 5px 20px;
+	border-radius: 5px;
+}
+.dim{
+  padding-right: 70px;
+  color: gray;
+}
